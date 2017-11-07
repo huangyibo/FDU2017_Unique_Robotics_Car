@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">智能小车终端</string>
+
+    <string name="btn_input">开始识别</string>
+    <string name="status">状态  : </string>
+    <string name="opening_recode_devices"> 正在打开录音设备</string>
+    <string name="click_say">点击说话</string>
+    <string name="just_recognizer">正在识别</string>
+    <string name="speaking">说话中</string>
+    <string name="please_speak">请说话</string>
+    <string name="say_over">说完了</string>
+    <string name="give_up"> 放弃</string>
+    <string name="info_upload_success">个性化信息上传成功</string>
+    <string name="no_hear_sound">没有听到声音</string>
+
+</resources>
